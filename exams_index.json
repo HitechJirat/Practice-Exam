@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "filename": "All_India_Practice_Mock_12.html",
+    "examId": "QWxsIEluZGlhIChQcmFjdGljZSlfMTI=",
+    "title": "All India (Practice) Mock 12",
+    "mockNumber": "12",
+    "categoryPath": [
+      "Others"
+    ],
+    "type": "Regular",
+    "visibility": "Listed",
+    "pricing": "Free",
+    "questionsCount": 100,
+    "duration": 90,
+    "fullMarks": 100,
+    "timestamp": "2026-07-08T11:28:03.255Z",
+    "unlockCode": "",
+    "resultPublishTime": "",
+    "repo": "Practice-Exam"
+  }
+]
