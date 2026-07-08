@@ -17,5 +17,26 @@
     "unlockCode": "",
     "resultPublishTime": "",
     "repo": "Practice-Exam"
+  },
+  {
+    "filename": "WBCS_EXAM_2024_PREVIOUS_YEAR_14TH_JUNE_2026_Mock_.html",
+    "examId": "V0JDUyBFWEFNIDIwMjQgUFJFVklPVVMgWUVBUiAxNFRIIEpVTkUgMjAyNl8=",
+    "title": "WBCS EXAM 2024 PREVIOUS YEAR 14TH JUNE 2026",
+    "mockNumber": 1,
+    "categoryPath": [
+      "WBPSC",
+      "WBCS",
+      "PREVIOUS YEAR"
+    ],
+    "type": "Regular",
+    "visibility": "Listed",
+    "pricing": "Free",
+    "questionsCount": 200,
+    "duration": 135,
+    "fullMarks": 200,
+    "timestamp": "2026-07-08T12:35:59.328Z",
+    "unlockCode": "",
+    "resultPublishTime": "",
+    "repo": "Practice-Exam"
   }
 ]
