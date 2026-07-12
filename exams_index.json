@@ -38,5 +38,24 @@
     "unlockCode": "",
     "resultPublishTime": "",
     "repo": "Practice-Exam"
+  },
+  {
+    "filename": "WB_EXAM_Mock_1.html",
+    "examId": "V0IgRVhBTV8x",
+    "title": "WB EXAM Mock 1",
+    "mockNumber": "1",
+    "categoryPath": [
+      "Others"
+    ],
+    "type": "Regular",
+    "visibility": "Listed",
+    "pricing": "Free",
+    "questionsCount": 100,
+    "duration": 60,
+    "fullMarks": 100,
+    "timestamp": "2026-07-12T19:37:54.619Z",
+    "unlockCode": "WB1",
+    "resultPublishTime": "2026-07-13T22:00",
+    "repo": "Practice-Exam"
   }
 ]
